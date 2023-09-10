@@ -1,2 +1,0 @@
-# DProjectS
-Sistema de ventas
